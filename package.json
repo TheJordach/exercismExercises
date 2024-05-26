@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --coverage",
     "start": "ts-node-dev --respawn --no-notify --transpileOnly --file ./index.ts",
-     "current-test": "npm test ./ResistorColorTrio/resistorColorTrio.spec.ts"
+     "current-test": "npm test  RobotName/robotName.spec.ts"
   },
   "keywords": [],
   "author": "",
