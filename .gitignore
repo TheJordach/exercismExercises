@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled JavaScript files
+*.js
+*.js.map
+
+# TypeScript build directory
+dist/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Logs and runtime data
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# macOS system files
+.DS_Store
